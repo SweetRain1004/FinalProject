@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h2>여기는 AcademyController의 test메소드의 리턴페이지입니다.</h2>
-	<h1>이번엔 제대로 테스트</h1>
+	<h1>33 제대로 테스트</h1>
 </body>
 </html>
